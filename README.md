@@ -1,6 +1,6 @@
 # UAS PEMROGRAMAN MOBILE - FIRLAN PRAYOGA (20190801120) - STUDI KASUS APLIKASI DATA DOSEN
 
-A new Flutter project.
+Studi Kasus Aplikasi Data Dosen
 
 ## Screenshoot Tampilan Aplikasi
 ![image](https://user-images.githubusercontent.com/54829625/179491854-155c1a27-ee1c-4fa6-9347-496db748c320.png)
